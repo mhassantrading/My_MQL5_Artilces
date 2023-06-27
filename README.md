@@ -1,1 +1,1 @@
-# This repo is about my MQL5 articles on mql5.com
+# This is my mql5 article files repo
