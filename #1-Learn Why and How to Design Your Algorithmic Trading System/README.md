@@ -1,0 +1,1 @@
+## This folder is for my #1 mql5 article: "Learn Why and How to Design Your Algorithmic Trading System"
