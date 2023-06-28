@@ -1,4 +1,4 @@
-## My MQL5 Published Artilces - Trading Project
+## *Trading Project* My MQL5 Published Artilces
 ### You can read all articles through the following link: 
 ### ***[My Articles](https://www.mql5.com/en/users/m.aboud/publications)***
 
