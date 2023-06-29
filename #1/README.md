@@ -8,4 +8,4 @@
 4. ***ex5_EA_Files***
 #### You can find mq5 files attached to the article also.
 
-#### I hope that you find this project is useful for you.
+#### I hope that you find this project useful for you.
