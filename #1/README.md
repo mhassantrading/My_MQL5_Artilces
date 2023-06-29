@@ -6,6 +6,7 @@
 2. ***ex5_Script_Files***
 3. ***mq5_EA_Files***
 4. ***ex5_EA_Files***
+5. ***README File***
 #### You can find mq5 files attached to the article also.
 
 #### I hope that you find this project useful for you.
