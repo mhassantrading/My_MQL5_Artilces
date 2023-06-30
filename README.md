@@ -43,6 +43,8 @@
 38. ***[How to create a custom True Strength Index indicator using MQL5](https://www.mql5.com/en/articles/12570)***
 39. ***[Understand and Use MQL5 Strategy Tester Effectively](https://www.mql5.com/en/articles/12635)***
 40. ***[How to create a custom Donchian Channel indicator using MQL5](https://www.mql5.com/en/articles/12711)***
+41. ***[Understanding MQL5 Object-Oriented Programming (OOP)](https://www.mql5.com/en/articles/12813)***
+
 
 
 #### I hope that you find this project useful for you.
