@@ -1,4 +1,4 @@
-## Understanding MQL5 Object-Oriented Programming (OOP)
+## Creating Graphical Panels Became Easy in MQL5
 ### Read the article through the following link:
 ### ***[Creating Graphical Panels Became Easy in MQL5](https://www.mql5.com/en/articles/12903)***
 #### ***Included files:***
