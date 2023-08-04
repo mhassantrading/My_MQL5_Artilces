@@ -46,6 +46,7 @@
 41. ***[Understanding MQL5 Object-Oriented Programming (OOP)](https://www.mql5.com/en/articles/12813)***
 42. ***[Creating Graphical Panels Became Easy in MQL5](https://www.mql5.com/en/articles/12903)***
 43. ***[Understanding functions in MQL5 with applications](https://www.mql5.com/en/articles/12970)***
+44. ***[Everything you need to learn about the MQL5 program structure](https://www.mql5.com/en/articles/13021)***
 
 
 
