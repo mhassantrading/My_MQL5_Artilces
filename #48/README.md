@@ -1,4 +1,4 @@
-## LDesign Patterns in software development and MQL5 (part one): Creational Patterns
+## Design Patterns in software development and MQL5 (part one): Creational Patterns
 
 ### Read the article through the following link:
 
