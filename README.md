@@ -53,7 +53,7 @@
 45. **_[Testing different Moving Average types to see how insightful they are](https://www.mql5.com/en/articles/13130)_**
 46. **_[Understanding order placement in MQL5](https://www.mql5.com/en/articles/13229)_**
 47. **_[Learn how to deal with date and time in MQL5](https://www.mql5.com/en/articles/13466)_**
-48. **_[Design Patterns in software development and MQL5 (part one): Creational Patterns](https://www.mql5.com/en/articles/13622)_**
+48. **_[Design Patterns in software development and MQL5 (part 1): Creational Patterns](https://www.mql5.com/en/articles/13622)_**
 49. **_[Design Patterns in software development and MQL5 (Part 2): Structural Patterns](https://www.mql5.com/en/articles/13724)_**
 
 #### I hope that you find this project useful for you.
