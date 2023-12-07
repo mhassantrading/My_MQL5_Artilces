@@ -55,5 +55,6 @@
 47. **_[Learn how to deal with date and time in MQL5](https://www.mql5.com/en/articles/13466)_**
 48. **_[Design Patterns in software development and MQL5 (part 1): Creational Patterns](https://www.mql5.com/en/articles/13622)_**
 49. **_[Design Patterns in software development and MQL5 (Part 2): Structural Patterns](https://www.mql5.com/en/articles/13724)_**
+50. **_[Design Patterns in software development and MQL5 (Part 3): Behavioral Patterns 1](https://www.mql5.com/en/articles/13796)_**
 
 #### I hope that you find this project useful for you.
