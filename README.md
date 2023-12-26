@@ -56,5 +56,6 @@
 48. **_[Design Patterns in software development and MQL5 (part 1): Creational Patterns](https://www.mql5.com/en/articles/13622)_**
 49. **_[Design Patterns in software development and MQL5 (Part 2): Structural Patterns](https://www.mql5.com/en/articles/13724)_**
 50. **_[Design Patterns in software development and MQL5 (Part 3): Behavioral Patterns 1](https://www.mql5.com/en/articles/13796)_**
+51. **_[Design Patterns in software development and MQL5 (Part 4): Behavioral Patterns 2](https://www.mql5.com/en/articles/13876)_**
 
 #### I hope that you find this project useful for you.
