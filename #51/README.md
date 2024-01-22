@@ -1,4 +1,4 @@
-## esign Patterns in software development and MQL5 (Part 4): Behavioral Patterns 2
+## Design Patterns in software development and MQL5 (Part 4): Behavioral Patterns 2
 
 ### Read the article through the following link:
 
