@@ -58,5 +58,6 @@
 50. **_[Design Patterns in software development and MQL5 (Part 3): Behavioral Patterns 1](https://www.mql5.com/en/articles/13796)_**
 51. **_[Design Patterns in software development and MQL5 (Part 4): Behavioral Patterns 2](https://www.mql5.com/en/articles/13876)_**
 52. **_[Building and testing Aroon Trading Systems](https://www.mql5.com/en/articles/14006)_**
+53. **_[Building and testing Keltner Channel trading systems](https://www.mql5.com/en/articles/14169)_**
 
 #### I hope that you find this project useful for you.
