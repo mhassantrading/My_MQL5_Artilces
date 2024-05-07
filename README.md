@@ -59,5 +59,7 @@
 51. **_[Design Patterns in software development and MQL5 (Part 4): Behavioral Patterns 2](https://www.mql5.com/en/articles/13876)_**
 52. **_[Building and testing Aroon Trading Systems](https://www.mql5.com/en/articles/14006)_**
 53. **_[Building and testing Keltner Channel trading systems](https://www.mql5.com/en/articles/14169)_**
+54. **_[Advanced Variables and Data Types in MQL5](https://www.mql5.com/en/articles/14169)_**
+55. **_[How to build and optimize a volatility-based trading system (Chaikin Volatility - CHV)](https://www.mql5.com/en/articles/14775)_**
 
 #### I hope that you find this project useful for you.
