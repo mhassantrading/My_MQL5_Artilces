@@ -63,5 +63,6 @@
 55. **_[How to build and optimize a volatility-based trading system (Chaikin Volatility - CHV)](https://www.mql5.com/en/articles/14775)_**
 56. **_[MQL5 Integration: Python)](https://www.mql5.com/en/articles/14135)_**
 57. **_[How to build and optimize a volume-based trading system (Chaikin Money Flow - CMF)](https://www.mql5.com/en/articles/16469)_**
+58. **_[How to build and optimize a cycle-based trading system (Detrended Price Oscillator - DPO)](https://www.mql5.com/en/articles/19547)_**
 
 #### I hope that you find this project useful for you.
